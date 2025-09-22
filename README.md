@@ -9,18 +9,17 @@
     🖼️ Minimal design with the use of CSS styling  
 
 Installation and Setup
-    1. Clone the repo:
+1. Clone the repo:
         git clone https://github.com/tcoder-1/react-todo-app.git
         cd react-todo-app   
 
-    2. Install dependencies:
+2. Install dependencies:
         npm install
-
-
-    3. Run the app locally:
+        
+3. Run the app locally:
         npm run dev
-
-    4. Open your browser and go to:
+        
+4. Open your browser and go to:
         http://localhost:5173/
 
 Tools
