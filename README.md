@@ -22,8 +22,8 @@
 4. Open your browser and go to:
         http://localhost:5173/
 
-Tools
-    - React
-    - Vite
-    - JavaScript
-    - CSS
+🔨Tools
+- React
+- Vite
+- JavaScript
+- CSS
