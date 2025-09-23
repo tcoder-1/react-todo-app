@@ -10,7 +10,7 @@
 
 💻🔨Installation and Setup
 1. Clone the repo:
-- git clone https://github.com/tcoder-1/react-todo-app.git
+-   git clone https://github.com/tcoder-1/react-todo-app.git
 - cd react-todo-app   
 
 2. Install dependencies:
